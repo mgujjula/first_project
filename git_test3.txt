@@ -1,2 +1,4 @@
 Practise for Git Hb command
 Merge command
+Practise for Git Hb commandtesting for 
+testing for merge command 
