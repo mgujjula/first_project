@@ -1,6 +1,0 @@
-ting for cherry 1 st line
-<<<<<<< HEAD
-testing for cherry line 2
-
-=======
->>>>>>> a420ea8... cherry1
