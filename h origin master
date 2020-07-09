@@ -1,0 +1,239 @@
+[33mcommit b7d459219860bba71d3bcc0236163cb4e2ee30c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 84c8fa3 1273f68
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 21:38:55 2020 +0000
+
+    Merge branch 'master' of github.com:mgujjula/first_project
+
+[33mcommit 84c8fa3d04dda2db25c65a188b3100e88a0dd4d4[m[33m ([m[1;32mtest[m[33m)[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 21:35:19 2020 +0000
+
+    f4
+
+[33mcommit 1273f6856ddbaa75478ea3ea94b42920bd156823[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 21:14:54 2020 +0000
+
+    merging completed
+
+[33mcommit 6a63a26a943d36f58ed0155e6c6a16f6bd692230[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 21:11:53 2020 +0000
+
+    f2
+
+[33mcommit 95d7715b71233fb8247646bab05990a2f1be276b[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 21:11:18 2020 +0000
+
+    f1
+
+[33mcommit fb2c49e8671bb3d1cf2d06384a58951f540454a3[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 20:00:12 2020 +0000
+
+    f2
+
+[33mcommit a6b33982a0fb0a5817651920a6ce56d20640b4ba[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 19:59:02 2020 +0000
+
+    f1
+
+[33mcommit 5c5a9a35a30a337104f4b6584d0aba046a6113af[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 19:57:29 2020 +0000
+
+    M3
+
+[33mcommit bd8cfe0e7d8f68d328df411297cde427abaf6c3d[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 19:56:05 2020 +0000
+
+    M2
+
+[33mcommit 749d6b1f0f081d081010287ea8632cea96dff3d3[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 19:52:15 2020 +0000
+
+    m1
+
+[33mcommit ba1a14291c9bc36ba6f17587741498765a186f54[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 06:00:16 2020 +0000
+
+    Revert "Revert Command Testing"
+    
+    This reverts commit df1677d9932415c3532924beeb7aca1cb4b01586.
+
+[33mcommit df1677d9932415c3532924beeb7aca1cb4b01586[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 05:59:02 2020 +0000
+
+    Revert Command Testing
+
+[33mcommit 6d8596ce87e7d82b5101a7be5266b3985dd43453[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 05:56:56 2020 +0000
+
+    Revert "Revert "testing revert command""
+    
+    This reverts commit c43ba5b2b0e8374c802a53f31b00d7f4032a0233.
+
+[33mcommit c43ba5b2b0e8374c802a53f31b00d7f4032a0233[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 05:26:52 2020 +0000
+
+    Revert "testing revert command"
+    
+    This reverts commit 03d81f6334736fc5469c629bd9b95fcbeefb1563.
+
+[33mcommit cb77c17535e5efdf04422317145c7d5fbda701c0[m
+Merge: 03d81f6 e922eca
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 05:22:19 2020 +0000
+
+    Merge branch 'master' of github.com:mgujjula/first_project
+
+[33mcommit 03d81f6334736fc5469c629bd9b95fcbeefb1563[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 9 05:20:50 2020 +0000
+
+    testing revert command
+
+[33mcommit e922ecac0614b5e9165bfe68931d8404b1aa301d[m[33m ([m[1;33mtag: V1.0[m[33m)[m
+Merge: a695c0f 645e7d7
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 01:34:14 2020 +0000
+
+    Merge branch 'new_branch'
+
+[33mcommit 645e7d7160c32a0b642f513a9fd81f2f1c92dccc[m[33m ([m[1;33mtag: V1.1[m[33m, [m[1;32mnew_branch[m[33m)[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 01:33:06 2020 +0000
+
+    testing for merge
+
+[33mcommit a695c0fe632f2121247475bcb798acd3cf5f8043[m[33m ([m[1;33mtag: V1.3[m[33m)[m
+Merge: 8960d00 ce52279
+Author: mgujjula <67664172+mgujjula@users.noreply.github.com>
+Date:   Sun Jul 5 18:24:00 2020 -0700
+
+    Merge pull request #2 from mgujjula/new_branch
+    
+    new branch
+
+[33mcommit ce52279156120870fa338bbf1f9aab2a66e1c0b2[m[33m ([m[1;31morigin/new_branch[m[33m)[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 01:22:22 2020 +0000
+
+    new branch
+
+[33mcommit 8960d0077f16dcb8a99082fbf8bb46bb5fd57090[m
+Merge: e533ba0 318f576
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 01:11:05 2020 +0000
+
+    Merge branch 'new_branch'
+
+[33mcommit e533ba0a55a57a799e0bc2ffb1ff0c68b3abe3a2[m
+Merge: a41a741 db3a1af
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 01:07:00 2020 +0000
+
+    Merge branch 'master' of github.com:mgujjula/first_project
+
+[33mcommit 318f5765706d23dbe8fc9df99498d97d733dd800[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 01:05:01 2020 +0000
+
+    testing for merge
+
+[33mcommit db3a1af116d0dd520822571957c3f309b42ab208[m
+Merge: ee70862 d3dbcb6
+Author: mgujjula <67664172+mgujjula@users.noreply.github.com>
+Date:   Sun Jul 5 17:54:46 2020 -0700
+
+    Merge pull request #1 from mgujjula/new_branch
+    
+    New branch
+
+[33mcommit d3dbcb664abfc00aef81bfabe518f2a5a50de25a[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 00:49:33 2020 +0000
+
+    testing new branch
+
+[33mcommit b817bb38fc365d55efebc0b65f770a973875f352[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 00:42:54 2020 +0000
+
+    testing for new branch
+
+[33mcommit a41a7419839399b74a712a2f3a217a889899de45[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Mon Jul 6 00:32:08 2020 +0000
+
+    testing new branch file
+
+[33mcommit ee70862a4976ff65fa87c28b3e3bb181e68dc39d[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Sun Jul 5 23:39:07 2020 +0000
+
+    testing file
+
+[33mcommit 745c6ccea38cbf45a8b972de23fca325d22f4773[m
+Merge: 7fe7a53 d3cc877
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Sun Jul 5 04:09:50 2020 +0000
+
+    testing merge
+
+[33mcommit 7fe7a5358beca632323fe8ae16e8bfde94cd3f7c[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Sun Jul 5 04:07:25 2020 +0000
+
+    testing merge
+
+[33mcommit d3cc87702f54a311b0b883baf89367bbc5123fb0[m
+Author: mgujjula <67664172+mgujjula@users.noreply.github.com>
+Date:   Sat Jul 4 21:05:23 2020 -0700
+
+    Update git_test3.txt
+
+[33mcommit aaaf3afc287202b9591a61ee699d660d72bdd0e3[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Sun Jul 5 03:51:09 2020 +0000
+
+    test pwd less
+
+[33mcommit 9381881e8563ce0ef0147fac632ddc597b7255f7[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Sun Jul 5 03:48:25 2020 +0000
+
+    testing for pwd less
+
+[33mcommit a252cad5dd197f36a53f625747f0af2ab37b17ee[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Sun Jul 5 03:32:37 2020 +0000
+
+    testing file
+
+[33mcommit efba4a3869204c408427df88b905dbf122a35897[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 2 02:21:13 2020 +0000
+
+    third file
+
+[33mcommit 3544ce06f11c7f2b7f0798fe086b5c16cbf4a1f8[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 2 02:19:09 2020 +0000
+
+    second file
+
+[33mcommit 51a981b0ef15659ccbe9a34e097211c6bf4617ff[m
+Author: Madhav <gujjula.madhava@gmail.com>
+Date:   Thu Jul 2 02:10:19 2020 +0000
+
+    Adding Smaple file
